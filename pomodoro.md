@@ -3,11 +3,6 @@
 # Tools &amp; Techniques for Tedious Projects or Tasks 
 
 
-**Eat That Frog!**
-
-<a href="http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/frog.jpeg"></a>
-
-
 **The Pomodoro Technique**
 
 <a href="http://pomodorotechnique.com/" target="_blank"><img width="300" height="300" src="http://teaching.polishedsolid.com/time-warrior/pomodoro.jpg"></a>
