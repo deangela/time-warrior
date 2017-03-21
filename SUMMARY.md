@@ -12,7 +12,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 **Resources to Prioritize**
 
-* [The 7 Habits of Highly Effective People](habit.md) by Stephen Covey *(Book &amp; System)*
+* [The 7 Habits of Highly Effective People](habits.md) by Stephen Covey *(Book &amp; System)*
 * [Personal Kanban](kanban.md) *(System)* 
 * Essentialism: The Disclipined Pursuit of Less by Greg McKeown *(Book)*
 
