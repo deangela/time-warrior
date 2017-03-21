@@ -2,7 +2,7 @@
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system, tool or technique is a magic cure. A system, tool or technique only works if you use it daily or weekly (at least).
 
-* [Time Warrior](.md) by Steven Chandler
+* [Time Warrior](timewarrior.md) by Steven Chandler
 * [Recommended Calendars, Journals, and Planners](cals_journals_and_planners.md)
 
 [Resources to Track Time](track.md)
