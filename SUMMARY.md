@@ -30,10 +30,12 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The Power of Full Engagement](energy.md) 
 * [Energy Addict](energyaddict.md)
+
 ### Resources to Automate
 
 * [Zapier](zapier.md)
 * [IFTTT](ifttt.md)
 
-### [Additional Resources](additional.md)
+### Additional Resources
+* [Podcasts and Books](additional.md)
 
