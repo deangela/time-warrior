@@ -5,15 +5,15 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Time Warrior](timewarrior.md) by Steven Chandler
 * [Recommended Calendars, Journals, and Planners](cals_journals_and_planners.md)
 
-[Resources to Track Time](track.md)
+**Resources to Track Time**
 
 * [The Now Habit](now.md) by Neil Fiore *(Book &amp; System)*
 * [RescueTime](http://rescuetime.com) *(Tool)* 
 
-[Resources to Prioritize](prioritize.md)
+**Resources to Prioritize**
 
-* The 7 Habits of Highly Effective People by Stephen Covey *(Book &amp; System)*
-* Personal Kanban *(System)* 
+* [The 7 Habits of Highly Effective People](habit.md) by Stephen Covey *(Book &amp; System)*
+* [Personal Kanban](kanban.md) *(System)* 
 * Essentialism: The Disclipined Pursuit of Less by Greg McKeown *(Book)*
 
 **Tools &amp; Techniques for Tedious Projects or Tasks**
