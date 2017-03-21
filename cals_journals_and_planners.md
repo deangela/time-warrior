@@ -6,7 +6,7 @@
 
 **Calendars**
 
-<img src="http://teaching.polishedsolid.com/time-warrior/wallcalendar.jpg">
+<img src="http://teaching.polishedsolid.com/time-warrior/wallcalendar.png">
 
 * Analog
     * \*Desk Calendar as Wall Calendar
