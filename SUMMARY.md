@@ -14,7 +14,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The 7 Habits of Highly Effective People](habits.md) by Stephen Covey *(Book &amp; System)*
 * [Personal Kanban](kanban.md) *(System)* 
-* Essentialism: The Disclipined Pursuit of Less by Greg McKeown *(Book)*
+* [Essentialism: The Disclipined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/) by Greg McKeown *(Book)*
 
 **Tools &amp; Techniques for Tedious Projects or Tasks**
 
