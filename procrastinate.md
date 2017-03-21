@@ -2,18 +2,23 @@
 
 # Resources for Overwhelm: Procrastinate On Purpose 
 
-#### This system is for the Multiplier.
+This system is for the Multiplier.
 
 <a href="https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170634/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/procrastinate-on-purpose.jpg"></a>
 
+---
 
 <img src="http://teaching.polishedsolid.com/time-warrior/significance.png">
 
+---
+
 <img src="http://teaching.polishedsolid.com/time-warrior/focus-funnel-1.png">
+
+---
 
 <img src="http://teaching.polishedsolid.com/time-warrior/focus-funnel-2.png">
 
-
+---
 * **Eliminate** unnecessary initiatives, meaningless activity, useless bureaucracy, the wrong people, unproductive meetings and obstacles that are holding your team back. 
 * **Automate** regimented tasks, necessary but monotonous work and mechanisms that help reduce “think time” on tasks that are noncreative. 
 * **Delegate** work and decision-making authority to the specialized talent you have on your team. As my friend and Multiplier Steve Savage says, “Drive decision making downward.” Purposely enable the vast majority of decisions to be heavily influenced and, hopefully, made by the people who are closest to the front lines. 
