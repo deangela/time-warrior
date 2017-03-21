@@ -1,8 +1,6 @@
 ### TIME WARRIOR WORKSHOP
 
-# Resources to Prioritize
-
-**Personal Kanban**
+# Resources to Prioritize: Personal Kanban
 
 <a href="http://personalkanban.com" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/procrastinate-on-purpose.jpg"></a>
 

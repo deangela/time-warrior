@@ -1,4 +1,4 @@
-### Time Warrior Workshop
+### TIME WARRIOR WORKSHOP
 
 # Recommended Calendars, Journals, and Planners
 

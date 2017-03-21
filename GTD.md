@@ -1,8 +1,8 @@
 ### TIME WARRIOR WORKSHOP
 
-# Resources to Prioritize
+# Resources to Prioritize: Getting Things Done (GTD)
 
-**Getting Things Done** (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
+**GTD is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.**
 
 <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/GTD.jpeg"></a>
 

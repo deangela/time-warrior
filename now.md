@@ -1,8 +1,6 @@
 ### TIME WARRIOR WORKSHOP
 
-# Resources to Track Time 
-
-**The Now Habit**
+# Resources to Track Time: The Now Habit
 
 <a href="http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/now-habit.jpeg"></a>
 
