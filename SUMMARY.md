@@ -1,8 +1,10 @@
 # Time Warrior Workshop Overview
 
+<a href="https://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment-ebook/dp/B004NSV2T8/" target="_blank"><img width="260" height="390" src="http://teaching.polishedsolid.com/time-warrior/time-warrior.jpeg"></a>
+
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system, tool or technique is a magic cure. A system, tool or technique only works if you use it daily or (at least)weekly.
 
-* [Time Warrior](timewarrior.md) by Steven Chandler *(Book)*
+* [Time Warrior](https://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment-ebook/dp/B004NSV2T8/) by Steven Chandler *(Amazon)*
 * [Recommended Calendars, Journals, and Planners](cals_journals_and_planners.md)
 
 **Resources to Track Time**
