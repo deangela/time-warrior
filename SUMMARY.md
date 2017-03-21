@@ -35,6 +35,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Zapier](zapier.md)
 * [IFTTT](ifttt.md)
+* [TextExpander](textexpander.md) 
 
 ### Additional Resources
 * [Podcasts and Books](additional.md)
