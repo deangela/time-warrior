@@ -10,8 +10,5 @@
 * [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play) *Article*
 
 
-**RescueTime**
-
-* [RescueTime](http://rescuetime.com) 
 
 
