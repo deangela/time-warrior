@@ -1,8 +1,6 @@
 ### Additional Resources: Podcasts and Books
 
 
-<a href="https://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment-ebook/dp/B004NSV2T8/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/time-warrior.jpeg"></a>
-
 **Recommended Audio Podcast**
 
 * **The Tim Ferriss Show** Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
