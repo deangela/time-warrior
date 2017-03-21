@@ -14,7 +14,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The 7 Habits of Highly Effective People](habits.md) 
 * [Personal Kanban](kanban.md) 
-* [Essentialism](essentialsm.md) 
+* [Essentialism](essentialism.md) 
 
 ### Tools &amp; Techniques for Tedious Projects or Tasks
 
