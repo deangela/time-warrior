@@ -24,6 +24,6 @@
 **Journals**
 
 <ul>
-<li><a href="https://bestself.co/products/self-journal" target="_blank">Best Self Journal</a> (<a href="http://teaching.polishedsolid.com/time-warrior/self-journal.pdf" target="_blank">Download PDF Sample</a>)</li>
+<li><a href="https://bestself.co/products/self-journal" target="_blank">Best Self Journal</a> (<a href="http://teaching.polishedsolid.com/time-warrior/selfjournal.pdf" target="_blank">Download PDF Sample</a>)</li>
 <li><a href="https://www.intelligentchange.com/products/the-five-minute-journal" target="_blank">Five Minute Journal</a></li>
 </ul>
