@@ -2,12 +2,12 @@
 
 # Resources for Managing Overwhelm: Getting Things Done (GTD)
 
-**GTD is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.**
+GTD is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
 
 <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/GTD.jpeg"></a>
 
 GTD Workflow Simplified
-<img src="GTD-workflow-simplified.gif">
+<img src="http://teaching.polishedsolid.com/time-warrior/GTD-workflow-simplified.gif">
 
 <a href="http://teaching.polishedsolid.com/time-warrior/GTD-diagram.pdf" target="_blank">GTD Workflow</a>
 
