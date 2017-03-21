@@ -1,12 +1,11 @@
 ### TIME WARRIOR WORKSHOP
 
 # Recommended Calendars, Journals, and Planners
+<img src="http://teaching.polishedsolid.com/time-warrior/wallcalendar.png">
 
 \* Most Recommended
 
 **Calendars**
-
-<img src="http://teaching.polishedsolid.com/time-warrior/wallcalendar.png">
 
 * Analog
     * \*Desk Calendar as Wall Calendar
@@ -25,6 +24,6 @@
 **Journals**
 
 <ul>
-<li><a href="https://bestself.co/products/self-journal" target="_blank">Best Self Journal</a></li>
+<li><a href="https://bestself.co/products/self-journal" target="_blank">Best Self Journal</a> (<a href="http://teaching.polishedsolid.com/time-warrior/self-journal.pdf" target="_blank">Download PDF Sample</a>)</li>
 <li><a href="https://www.intelligentchange.com/products/the-five-minute-journal" target="_blank">Five Minute Journal</a></li>
 </ul>
