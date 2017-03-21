@@ -16,7 +16,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * Personal Kanban *(System)* 
 * Essentialism: The Disclipined Pursuit of Less by Greg McKeown *(Book)*
 
-[Tools &amp; Techniques for Tedius Projects or Tasks](tedius.md)
+[Tools &amp; Techniques for Tedious Projects or Tasks](tedious.md)
 
 * Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy *(Book)*
 * The Pomodoro Technique by ? *(Techinque)*

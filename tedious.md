@@ -1,6 +1,6 @@
 ### TIME WARRIOR WORKSHOP
 
-# Tools &amp; Techniques for Tedius Projects or Tasks 
+# Tools &amp; Techniques for Tedious Projects or Tasks 
 
 
 **Eat That Frog!**
