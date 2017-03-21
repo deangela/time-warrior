@@ -1,6 +1,6 @@
 ### TIME WARRIOR WORKSHOP
 
-# Resources to Prioritize: Getting Things Done (GTD)
+# Resources for Managing Overwhelm: Getting Things Done (GTD)
 
 **GTD is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.**
 

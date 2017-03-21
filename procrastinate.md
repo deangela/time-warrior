@@ -1,6 +1,6 @@
 ### TIME WARRIOR WORKSHOP
 
-# Resources for Overwhelm: Procrastinate On Purpose 
+# Resources for Managing Overwhelm: Procrastinate On Purpose 
 
 This system is for the Multiplier.
 

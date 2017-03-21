@@ -1,6 +1,5 @@
 # Time Warrior Workshop Overview
 
-<a href="https://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment-ebook/dp/B004NSV2T8/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/time-warrior.jpeg"></a>
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system, tool or technique is a magic cure. A system, tool or technique only works if you use it daily or (at least)weekly.
 
@@ -23,7 +22,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](frog.md) by Brian Tracy *(Book)*
 * [The Pomodoro Technique](pomodoro.md) by Francesco Cirillo *(Technique)*
 
-### Resources for Overwhelm
+### Resources for Managing Overwhelm
 
 * [Getting Things Done (GTD)](GTD.md) by David Allen *(Book &amp; System)*
 * [Procrastinate on Purpose: 5 Permissions to Multiply Your Time](procrastinate.md) by Rory Vaden *(Book &amp; System)*
@@ -38,3 +37,6 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Zapier](http://zapier.com) *(Tool)*
 * [IFTTT](https://ifttt.com/) *(Tool)*
+
+### [Additional Resources](additional.md)
+
