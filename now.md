@@ -6,8 +6,8 @@
 <hr>
 <img src="http://teaching.polishedsolid.com/time-warrior/unschedule.gif">
 <hr>
-* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/now-habit-schedules/) *Now Habit Schedules*
-* [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play) *Article*
+* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/now-habit-schedules/) *(Now Habit Schedules)*
+* [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play) *(Article)*
 
 
 
