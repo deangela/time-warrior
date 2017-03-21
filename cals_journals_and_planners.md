@@ -4,14 +4,16 @@
 
 \* Most Recommended
 
-**Planners**
-<ul>
-<li>Analog</li>
-    <li>*Desk Calendar -> Wall Calendar</li>
-<li>Digital</li>
-    <ul>*Google Calendar</ul>
-    <ul>iCal</ul>
-</ul>
+**Calendars**
+
+<img src="http://teaching.polishedsolid.com/time-warrior/wallcalendar.jpg">
+
+* Analog
+    * \*Desk Calendar as Wall Calendar
+* Digital
+    * \*Google Calendar
+    * iCal
+
 
 **Planners**
 
