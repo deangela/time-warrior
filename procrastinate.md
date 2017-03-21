@@ -4,7 +4,7 @@
 
 **Procrastinate On Purpose** This system is for the Multiplier.
 
-<a href="https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170634/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/procrastinate-on-purpose.png"></a>
+<a href="https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170634/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/procrastinate-on-purpose.jpg"></a>
 
 
 <img src="http://teaching.polishedsolid.com/time-warrior/significance.png">

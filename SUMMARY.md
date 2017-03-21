@@ -25,7 +25,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Getting Things Done (GTD)](GTD.md) by David Allen *(Book &amp; System)*
 * [Procrastinate on Purpose: 5 Permissions to Multiply Your Time](procrastinate.md) by Rory Vaden *(Book &amp; System)*
-* [Essentialism: The Disclipined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28) by Greg McKeown *(Book)*
+* [Essentialism: The Disclipined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28) by Greg McKeown *(Amazon)*
 
 **Resources for Managing Energy**
 
