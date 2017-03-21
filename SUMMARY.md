@@ -1,4 +1,4 @@
-# Time Warrior Workshop Summary
+# Time Warrior Workshop Overview
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system, tool or technique is a magic cure. A system, tool or technique only works if you use it daily or weekly (at least).
 
