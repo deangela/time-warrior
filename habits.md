@@ -4,5 +4,7 @@
 
 <a href="https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/7-Habits.jpeg"></a>
 
+---
+
 <img src="http://teaching.polishedsolid.com/time-warrior/the-matrix.jpeg">
 
