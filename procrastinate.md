@@ -10,15 +10,16 @@ This system is for the Multiplier.
 
 <img src="http://teaching.polishedsolid.com/time-warrior/significance.png">
 
----
+<hr>
 
 <img src="http://teaching.polishedsolid.com/time-warrior/focus-funnel-1.png">
 
----
+<hr>
 
 <img src="http://teaching.polishedsolid.com/time-warrior/focus-funnel-2.png">
 
----
+<hr>
+
 * **Eliminate** unnecessary initiatives, meaningless activity, useless bureaucracy, the wrong people, unproductive meetings and obstacles that are holding your team back. 
 * **Automate** regimented tasks, necessary but monotonous work and mechanisms that help reduce “think time” on tasks that are noncreative. 
 * **Delegate** work and decision-making authority to the specialized talent you have on your team. As my friend and Multiplier Steve Savage says, “Drive decision making downward.” Purposely enable the vast majority of decisions to be heavily influenced and, hopefully, made by the people who are closest to the front lines. 
