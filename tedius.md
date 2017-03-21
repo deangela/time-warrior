@@ -10,7 +10,7 @@
 
 **The Pomodoro Technique**
 
-<img width="100" height="100" src="http://teaching.polishedsolid.com/time-warrior/pomodoro.jpg">
+<a href="http://pomodorotechnique.com/" target="_blank"><img width="300" height="300" src="http://teaching.polishedsolid.com/time-warrior/pomodoro.jpg"></a>
 
 * [pomodorotechnique.com](http://pomodorotechnique.com/) *(System)*
 * [Pomodoro Technique Illustrated: Can You Focus Really Focus for
