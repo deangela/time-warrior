@@ -1,6 +1,6 @@
 # Time Warrior Workshop Overview
 
-<a href="https://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment-ebook/dp/B004NSV2T8/" target="_blank"><img width="260" height="390" src="http://teaching.polishedsolid.com/time-warrior/time-warrior.jpeg"></a>
+<a href="https://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment-ebook/dp/B004NSV2T8/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/time-warrior.jpeg"></a>
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system, tool or technique is a magic cure. A system, tool or technique only works if you use it daily or (at least)weekly.
 
