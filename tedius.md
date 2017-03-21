@@ -5,7 +5,7 @@
 
 **Eat That Frog!**
 
-* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1) *(Book)*
+<a href="http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/" target="_blank"><img src="http://teaching.polishedsolid.com/time-warrior/frog.jpeg"></a>
 
 
 **The Pomodoro Technique**
